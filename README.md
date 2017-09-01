@@ -1,7 +1,7 @@
 # hello-world
 ## My Play-ground!
 
-> testing how to work with XLR.
+> Testing how to work with XLR.
 
 Editing to see how it goes!  
 Editing for the second time.
