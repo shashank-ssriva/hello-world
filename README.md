@@ -3,8 +3,8 @@
 
 > testing how to work with XLR.
 
-editing to see how it goes!
-editing for the second time.
+Editing to see how it goes!  
+Editing for the second time.
 third edit!  
 4th edit!  
 5th edit!!!  
