@@ -1,7 +1,7 @@
 # hello-world
 ## My Play-ground!
 
-> Testing how to work with XLR.
+> Testing how to work with XL Release.
 
 *Editing to see how it goes!*  
 __Editing for the second time__.    
