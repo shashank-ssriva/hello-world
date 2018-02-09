@@ -1,7 +1,4 @@
 node {
-	stage('CreatePackage') {
-				xldCreatePackage artifactsPath: 'BridgeApp', darPath: 'BridgeApp.dar', manifestPath: 'deployit-manifest.xml'
-	}
 	stage('Publish') {
 				xldPublishPackage serverCredentials: 'XLD720', darPath: 'BridgeApp.dar'
 			 }
