@@ -1,5 +1,4 @@
-BRANCH Ops
-	stage('Publish') {
+stage('Publish') {
 			agent{node {label 'master'}}
 			steps{
 				xldPublishPackage serverCredentials: 'XLD720', darPath: 'build/libs/fileApp.dar'
