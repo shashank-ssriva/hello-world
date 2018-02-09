@@ -8,6 +8,6 @@ BRANCH DevOps
 		stage('Deploy') {
 			agent{node {label 'master'}}
 			steps{
-				xldDeploy serverCredentials: 'XLD720', environmentId: 'Environments/LocalHost', packageId: 'Applications/DevOps/fileApp/${BRANCH_NAME}/${BUILD_NUMBER}'
+				xldDeploy serverCredentials: 'XLD720', environmentId: 'Environments/LocalHost', packageId: 'Applications/DevOps/fileApp/${BRANCH_NAME}/${BUILD_NUMBER}.0'
 			}
 		}
